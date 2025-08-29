@@ -5,15 +5,15 @@ Este projeto é uma implementação de um sistema distribuído simulado, desenvo
 ## Tecnologias Utilizadas
 
 * **Linguagem:** Python
-* [cite_start]**Comunicação Intra-grupo:** Sockets TCP [cite: 18]
-* [cite_start]**Comunicação Intergrupos:** UDP Multicast [cite: 19]
-* [cite_start]**Middleware Grupo A:** gRPC [cite: 23]
-* [cite_start]**Middleware Grupo B:** Pyro5 [cite: 24]
-* [cite_start]**Sincronização:** Relógios de Lamport [cite: 20]
-* [cite_start]**Eleição:** Algoritmo de Bully [cite: 44] [cite_start]e Algoritmo de Anel [cite: 45]
-* [cite_start]**Detecção de Falhas:** Heartbeat [cite: 51]
-* [cite_start]**Snapshot:** Algoritmo de Chandy-Lamport [cite: 48]
-* [cite_start]**Segurança:** Autenticação por token com tempo de expiração [cite: 58, 59]
+* **Comunicação Intra-grupo:** Sockets TCP
+* **Comunicação Intergrupos:** UDP Multicast 
+* **Middleware Grupo A:** gRPC 
+* **Middleware Grupo B:** Pyro5 
+* **Sincronização:** Relógios de L
+* **Eleição:** Algoritmo de Bully e Algoritmo de Anel 
+* **Detecção de Falhas:** Heartbeat 
+* **Snapshot:** Algoritmo de Chandy-Lamport
+* **Segurança:** Autenticação por token com tempo de expiração
 
 ## Estrutura do Projeto
 
