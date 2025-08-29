@@ -1,8 +1,6 @@
 # Simulação de Ambiente Distribuído com Núcleo Modular
 
-[cite_start]Este projeto é uma implementação de um sistema distribuído simulado, desenvolvido para a disciplina de Sistemas Distribuídos do Instituto Federal da Bahia (IFBA), Campus Santo Antônio de Jesus[cite: 3, 4, 6].
-
-[cite_start]O objetivo é integrar múltiplos modelos de comunicação (Sockets, Multicast), middleware (gRPC, Pyro5), algoritmos de sincronização (Relógios de Lamport), eleição de líder (Bully, Anel), captura de estado (Chandy-Lamport) e tolerância a falhas (Heartbeat)[cite: 12, 13].
+Este projeto é uma implementação de um sistema distribuído simulado, desenvolvido para a disciplina de Sistemas Distribuídos do Instituto Federal da Bahia (IFBA), Campus Santo Antônio de Jesus  objetivo é integrar múltiplos modelos de comunicação (Sockets, Multicast), middleware (gRPC, Pyro5), algoritmos de sincronização (Relógios de Lamport), eleição de líder (Bully, Anel), captura de estado (Chandy-Lamport) e tolerância a falhas (Heartbeat)
 
 ## Tecnologias Utilizadas
 
