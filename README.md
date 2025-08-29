@@ -78,7 +78,7 @@ pip install -r requirements.txt
 **[Nota: Adapte os comandos acima para refletir como seu programa é realmente iniciado.]**
 
 ## Autores
+ Amanda Santos Lopes
+ João Vitor Rocha Soares
+ João Heric Alves Pereira
 
-* [Seu Nome Completo]
-* [Nome do Integrante 2]
-* [Nome do Integrante 3]
